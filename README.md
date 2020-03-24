@@ -1,15 +1,31 @@
-# tremmaker
+# Welcome to tremmaker!
 
-# Impressoras
+# Files
 
-# Ender 3
+ - bottom_reinforcement.stl
+ - covid19_headband_rc2.stl
 
-Parâmetros básicos
+## Profiles
 
-• 250 graus
-• 35 velocidade
-• 90 flowrate
-• 0.3 mm
-• 70 mesa
-• sem brim
-• pode ventilar
+Modelos de configuração por fatiador e fabricante do filamento
+
+ - cura-3dlab-petg.curaprofile
+ - simplify3D-3dFila-petgMalbec
+
+## Configurações básicas por impressora 3D
+
+**Ender 3**
+
+- 250 graus
+
+- 35 velocidade
+
+- 90 flowrate
+
+- 0.3 mm
+
+- 70 mesa
+
+- sem brim
+
+- pode ventilar

@@ -1,4 +1,6 @@
-# Welcome to tremmaker!
+# Trem Maker contra o COVID
+
+Coletivo de engenheiros, designers, publicitários, programadores, médicos, especialistas e fabricação digital e makers de Minas Gerais, comprometidos em gerar a produção distribuída de EPI's médicas para todos os profissionais da Saúde no combate a COVID-19
 
 ## Files
 

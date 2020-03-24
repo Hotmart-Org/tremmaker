@@ -3,6 +3,7 @@
 ## Files
 
  - bottom_reinforcement.stl
+ - covid19_headband_rc1.stl
  - covid19_headband_rc2.stl
 
 ## Profiles
